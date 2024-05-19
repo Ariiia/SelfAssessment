@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🖐️ used 
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations: 🖐️ used
   - Schema versioning

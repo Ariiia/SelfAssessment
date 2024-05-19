@@ -93,7 +93,7 @@
   - Higher order
   - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback:  👂 heard
+  - Callback: 👂 heard
   - Listener: 🎓 known
   - Composition
   - Pipe: 👂 heard

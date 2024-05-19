@@ -78,7 +78,7 @@
   - State: 🖐️ used
   - Bridge: 👂 heard
   - Builder: 🖐️ used
-  - Prototype 
+  - Prototype
   - Composite: 👂 heard
   - Decorator: 👂 heard
   - Flyweight: 👂 heard
