@@ -74,7 +74,7 @@
   - BPMN: 🎓 known
   - Low-code: 👂 heard
   - No-code: 👂 heard
-  - Metric: 👂 known
+  - Metric: 👂 known 👉 Warning: not matching level and emoji
   - Metric abuse
   - ACID: 🎓 known
   - CAP theorem: 🎓 known
