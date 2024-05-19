@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads: 👂 heard
   - Performance hooks
-  - Native fetch and nodejs/undici 
+  - Native fetch and nodejs/undici
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
