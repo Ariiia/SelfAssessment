@@ -19,9 +19,9 @@
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming: 👂 heard
-  - Actor model
+  - Actor model: 🎓 known
   - Lambda calculus
-  - Black box: 👂 heard
+  - Black box: 🎓 known
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model

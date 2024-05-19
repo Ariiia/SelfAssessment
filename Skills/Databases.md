@@ -3,23 +3,23 @@
 - Theory and concepts
   - Data types: 🖐️ used 
   - Performance tuning
-  - Migrations: 🎓 known
+  - Migrations: 🖐️ used
   - Schema versioning
-  - Backup and recovery: 🎓 known
+  - Backup and recovery: 🖐️ used
   - Database scalability: 🎓 known
   - Relational databases: 🖐️ used
-  - Key-value store: 🎓 known
+  - Key-value store: 🖐️ used
   - Tuple store
   - Graph databases: 🎓 known
-  - Object databases: 🎓 known
+  - Object databases: 🖐️ used
   - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases
   - In-memory databases: 🎓 known
   - Inverted index
-  - Data control language (DCL)
+  - Data control language (DCL): 🖐️ used
   - Data definition language (DDL): 🎓 known
-  - Data manipulation language (DML)
+  - Data manipulation language (DML): 🖐️ used
   - Data query language (DQL): 🎓 known
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
@@ -27,13 +27,13 @@
   - Indexing: 🖐️ used
   - Primary keys: 🖐️ used
   - Foreign keys: 🖐️ used
-  - Transactions
+  - Transactions: 🎓 known
   - Views: 🖐️ used
   - Subqueries: 🎓 known
   - Stored procedures
   - SQL functions: 🎓 known
   - Materialized views
-  - Replications
+  - Replications: 🎓 known
   - Virtualization
 - SQL
   - `SELECT`: 🖐️ used
@@ -75,14 +75,14 @@
   - MySQL: 🖐️ used
   - MariaDB: 🖐️ used
   - MS SQL Server: 🖐️ used
-  - Redis: 👂 heard
+  - Redis: 🖐️ used
   - Rabbit: 👂 heard
   - MongoDB: 🖐️ used
   - Memcached: 👂 heard
   - Riak
   - DB2
-  - SQLite: 👂 heard
-  - DynamoDB: 👂 heard
+  - SQLite: 🖐️ used
+  - DynamoDB: 🖐️ used
   - Firebase: 👂 heard
 - Data engineering
   - Data warehousing: 👂 heard

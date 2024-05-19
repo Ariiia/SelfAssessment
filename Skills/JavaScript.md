@@ -3,8 +3,8 @@
 - Language
   - `Object`: 🖐️ used
   - `Function`: 🖐️ used
-  - `Boolean`
-  - `Number`
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`: 🎓 known
   - `String`: 🖐️ used
   - `Symbol`: 👂 heard
@@ -18,10 +18,10 @@
   - `...rest`
   - `typeof`: 🖐️ used
   - Destructuring
-  - Generators: 👂 heard
+  - Generators: 🎓 known
   - Iterators: 🖐️ used
-  - Async generator
-  - Async iterator
+  - Async generator: 🎓 known
+  - Async iterator: 🎓 known
   - Chaining
   - Optional chaining
   - IIFE
@@ -34,7 +34,7 @@
   - `prototype`: 👂 heard
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment
+  - Logical Assignment: 🖐️ used
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
@@ -65,7 +65,7 @@
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await`
+  - `for await`: 🎓 known
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
@@ -75,7 +75,7 @@
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
-  - `extends`: 👂 heard
+  - `extends`: 🎓 known
   - `with`: 🖐️ used
   - `new`: 🖐️ used
 - Functions

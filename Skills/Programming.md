@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
+  - Subject domain: 🖐️ used
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
   - Semantics: 🖐️ used
@@ -12,7 +12,7 @@
   - Programm: 🖐️ used
   - Programming paradigm: 🖐️ used
   - Programming language: 🖐️ used
-  - Contract
+  - Contract: 🎓 known
   - Module: 🖐️ used
   - Library: 🖐️ used
   - Package: 🖐️ used
@@ -71,8 +71,8 @@
   - Type systems: 🖐️ used
   - Strong typing: 🖐️ used
   - Weak typing: 🖐️ used
-  - Duck typing
-  - Static typing
+  - Duck typing: 🖐️ used
+  - Static typing: 🖐️ used
   - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
@@ -94,11 +94,11 @@
   - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback:  👂 heard
-  - Listener
+  - Listener: 🎓 known
   - Composition
   - Pipe: 👂 heard
   - Memoize
-  - Wrapper
+  - Wrapper: 🎓 known
   - Functor: 👂 heard
   - Monad
   - Monoid
@@ -107,7 +107,7 @@
 - Data structures
   - Array: 🖐️ used
   - Structure: 🖐️ used
-  - Record
+  - Record: 🖐️ used
   - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
@@ -124,8 +124,8 @@
   - Tree: 🖐️ used
   - Graph: 🖐️ used
   - Iterator: 🖐️ used
-  - Mutable state
-  - Immutable state
+  - Mutable state: 🖐️ used
+  - Immutable state: 🖐️ used
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
   - JSON: 🖐️ used
@@ -145,18 +145,18 @@
   - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
+  - Transpiler: 🎓 known
   - Linter: 🖐️ used
   - Polyfill
   - Interpreter: 🖐️ used
-  - Linker
+  - Linker: 🎓 known
   - Dynamic linking
   - Static linking
   - Runtime: 🎓 known
   - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization: 🖐️ used
   - Debugger: 🖐️ used
   - Tracing
   - Garbage collection: 🖐️ used
@@ -188,7 +188,7 @@
   - Micro-optimization
   - Nested loops: 🖐️ used
   - Long method/function/procedure
-  - Long inheritance
+  - Long inheritance: 🎓 known
   - Large class/file: 🖐️ used
   - Too many parameters
   - Pass-through parameters
@@ -197,10 +197,10 @@
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
-  - Data clump
-  - Feature envy
+  - Data clump: 🖐️ used
+  - Feature envy: 🎓 known
   - Monkey patch: 🖐️ used
-  - Yo-yo problem
+  - Yo-yo problem: 🖐️ used
 - Runtimes and virtual machines
   - Bytecode: 🖐️ used
   - V8: 🎓 known
@@ -213,18 +213,18 @@
   - Kernel: 🎓 known
   - Ring
   - Virtual memory: 🎓 known
-  - File system: 🎓 known
+  - File system: 🖐️ used
   - Linux: 🖐️ used
   - Unix: 🖐️ used
   - BSD: 👂 heard
   - MacOS: 🖐️ used
   - Windows: 🖐️ used
   - Real-time OS
-  - Embedded OS
+  - Embedded OS: 🎓 known
 - Standards
   - ASCII: 🖐️ used
   - Escape sequence: 🖐️ used
-  - RFC
+  - RFC: 🎓 known
   - IETF
   - IANA: 👂 heard
   - IEEE: 👂 heard
@@ -235,5 +235,5 @@
   - MIME: 👂 heard
   - OWASP: 🖐️ used
   - UTF-8: 🖐️ used
-  - W3C
+  - W3C: 🖐️ used
   - ODMG

@@ -10,13 +10,13 @@
   - CQS: 👂 heard
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🖐️ used
-  - Contract programming
+  - Contract programming: 👂 heard
   - Platform-agnostic: 🎓 known
   - Transport-agnostic
-  - Framework-agnostic
+  - Framework-agnostic: 👂 heard
   - Code coverage: 🖐️ used
   - Cohesion: 👂 heard
-  - Coupling: 👂 heard
+  - Coupling: 🎓 known
   - Cyclomatic complexity
   - Reliability: 🎓 known
   - Quality: 🎓 known
@@ -25,7 +25,7 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 👂 heard
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach: 👂 heard
   - Hexagonal architecture
@@ -35,15 +35,15 @@
   - Dependency injection (DI): 👂 heard
   - Clean architecture: 👂 heard
   - Domain-driven design (DDD): 👂 heard
-  - Pub/sub: 👂 heard
-  - Message brocker: 👂 heard
+  - Pub/sub: 🖐️ used
+  - Message brocker: 🖐️ used
   - Agent
   - Service locator
-  - Message Queue (MQ): 👂 heard
+  - Message Queue (MQ): 🖐️ used
   - CQRS: 👂 heard
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
   - UML: 🖐️ used
   - Work breakdown structure
@@ -67,7 +67,7 @@
   - System design: 👂 heard
   - Process modelling: 👂 heard
   - Data modelling: 👂 heard
-  - Solution components
+  - Solution components: 👂 heard
   - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR): 🎓 known
   - Clouds: 🖐️ used
@@ -77,7 +77,7 @@
   - Metric: 👂 known
   - Metric abuse
   - ACID: 🎓 known
-  - CAP theorem
+  - CAP theorem: 🎓 known
   - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
   - Understanding business needs: 👂 heard
@@ -85,12 +85,12 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices: 🎓 known
   - Process choreography
-  - Service orchestration
+  - Service orchestration: 👂 heard
   - Data warehouse: 👂 heard
   - Business Intelligence: 👂 heard
   - OLAP: 🎓 known

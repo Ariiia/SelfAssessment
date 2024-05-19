@@ -18,7 +18,7 @@
   - Live locks: 🎓 known
   - Concurrent programming: 🖐️ used
   - Parallel programming: 🖐️ used
-  - Actor Model
+  - Actor Model: 🎓 known
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
@@ -29,9 +29,9 @@
   - Async/await: 🖐️ used
   - Future: 🎓 known
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event: 👂 heard
   - Coroutine: 👂 heard
   - Goroutine: 👂 heard
@@ -39,7 +39,7 @@
   - Stream
   - Chain of responsibility: 👂 heard
   - Middleware: 👂 heard
-  - Locks
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
   - promisify
