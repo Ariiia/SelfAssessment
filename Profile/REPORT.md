@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-471&nbsp;/&nbsp;682&nbsp;/&nbsp;730-FF3300?style=flat-square)](https://github.com/Ariiia/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-472&nbsp;/&nbsp;683&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Ariiia/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-471&nbsp;/&nbsp;682&nbsp;/&nbsp;730-FF3300?style=flat-square)](https://github.com/Ariiia/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-472&nbsp;/&nbsp;683&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Ariiia/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Ariiia/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-471&nbsp;/&nbsp;682&nbsp;/&nbsp;730-FF3300?style=flat-square"></a>
+<a href="https://github.com/Ariiia/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-472&nbsp;/&nbsp;683&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -59,7 +59,7 @@
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `19` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `28` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `16` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `17` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `9` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
